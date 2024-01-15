@@ -35,7 +35,7 @@ TARGET_SIZE     = 81 # target archive size
 
 RESEEDUPPERBOUND = 10
 
-RUN_TIME = 600
+RUN_TIME = 3600
 
 # mutation operator probability
 MUTOPPROB        = 0.5
