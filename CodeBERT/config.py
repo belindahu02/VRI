@@ -12,7 +12,7 @@ POPSIZE          = 100
 VOCAB_SIZE      = 10000
 INPUT_MAXLEN        = 2000
 NUM_CLASSES      = 10
-MODEL            = 'models/text_classifier.h5'
+MODEL            = 'models/codebert_model.h5'
 BITMAP_THRESHOLD = 0.5
 FEATURES         = ["NegCount", "VerbCount"] # ["NegCount", "PosCount", "VerbCount"]
 
